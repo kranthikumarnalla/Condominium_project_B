@@ -4,7 +4,7 @@
 
  I enjoy the challenge of transformation a space into something fresh and engaging
 
-  <img align="middle" alt="coding" width="800" src="https://github.com/kranthikumarnalla/Portfolio/blob/main/1-1.jpeg">
+  <img align="middle" alt="coding" width="800" src="https://github.com/kranthikumarnalla/Portfolio/blob/main/2-1.jpeg">
  
 # BRIFE
  
